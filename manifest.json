@@ -1,7 +1,7 @@
 {
 	"id": "select-current-line",
 	"name": "Select current line",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.0.0",
 	"description": "Selects the current line where the cursor is placed. Press 'ESC' button to select.",
 	"author": "Gokul",
